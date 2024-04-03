@@ -1,0 +1,88 @@
+
+
+.teect-center{
+    text-align: center;
+
+}
+.bg-red{
+    background-color:#0c0c0c;
+    max-width: 400px;
+    
+}
+.mx-auto{
+    margin: auto;
+   
+    border-radius: 6px;
+    padding-bottom: 40px;
+}
+
+
+.button{
+    
+padding: 25px;
+background-color: #3d3939;
+border: 2px solid rgb(114, 105, 105);
+border-radius: 50px;
+cursor: pointer;
+color: aliceblue;
+transition: ease-out .2s;
+
+}
+.button:hover{
+  font-size: 20px;
+  background-color: #4b4a4a;
+}
+
+.adujest{
+    margin: 0pxpx;
+    padding: 28px;
+  
+}
+.flex{
+     display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+.row{
+    margin-top: 3px;
+}
+
+/* top? */
+
+.input{
+    height: 3.6pc;
+   max-width: 250px;
+   border: #0c0c0c;
+   margin-bottom: 12px;
+   margin-top: 12px;
+   border-radius: 5px;
+   font-size: 20px;
+   font-size: 3rem;
+   color: white;
+   background-color: #0c0c0c;
+   
+}
+.zero2{
+    padding-left: 22px;
+    padding-right: 23px;
+}
+.zero1{
+ padding-left: 15px;
+ padding-right: 15px;
+}
+.zero{
+    padding-left: 10px;
+    padding-right: 10px;
+   }
+   .spacil{
+  background-color: #c1b2b2;
+   }
+   .spacil2{
+    background-color:#ff990a;
+   }
